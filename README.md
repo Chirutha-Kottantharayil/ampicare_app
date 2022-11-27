@@ -2,7 +2,8 @@
 
 ##HACKATHON
 
-IDEA: An app which can track all the ambulances in a locality. Whenever there is a scientific emergency , with the aid of the use of this app we can get the close by ambulance in shortest viable time. The app consists of following elements as well:
+##IDEA: 
+An app which can track all the ambulances in a locality. Whenever there is a scientific emergency , with the aid of the use of this app we can get the close by ambulance in shortest viable time. The app consists of following elements as well:
 
 *Notify police forces 
 *Lead through least site visitors area(route optimisation) 
