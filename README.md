@@ -1,14 +1,14 @@
 # ambicare_app
 
-##HACKATHON
+## HACKATHON
 
-##IDEA: 
+## IDEA: 
 An app which can track all the ambulances in a locality. Whenever there is a scientific emergency , with the aid of the use of this app we can get the close by ambulance in shortest viable time. The app consists of following elements as well:
 
-*Notify police forces 
-*Lead through least site visitors area(route optimisation) 
-*Bed and health practitioner availability in precise hospital 
-*Different priorities for fundamental and emergency needs
+* Notify police forces 
+* Lead through least site visitors area(route optimisation) 
+* Bed and health practitioner availability in precise hospital 
+* Different priorities for fundamental and emergency needs
 
 An undertaking used to be initiated by way of the authorities of Kerala to tune all government ambulances in the state (accessible solely to the government). We advise to create an app to track ambulances (government and private) in a locality which is accessible to the users. It allows customers to contact the nearest ambulances in the shortest time. The app consists of the following features:
 
@@ -20,5 +20,4 @@ Getting time of arrival of the ambulance at the pickup point and having a hassle
 -Notify the nearest police stations of the circumstance of the user and route taken by means of the driver. This is essential for police officers to track the ambulances and ensure safety of the patients. 
 -An app for drivers to communicate with users and to get location of users based on priority. -Special healthcare facilities for pregnant women.
 
-## Demo video link
-https://drive.google.com/file/d/1uVL7Xbhk-4K4g0Swj3rX2SviC6427-mm/view?usp=sharing
+## [Demo video link](https://drive.google.com/file/d/1uVL7Xbhk-4K4g0Swj3rX2SviC6427-mm/view?usp=sharing)
